@@ -11,7 +11,7 @@ while contador_impares <  10
 end
 
 puts "La suma de los primeros 10 números impares es: #{suma_impares}"
-
+puts "Cambio"
 #posiciones -> [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 #valores ->    [1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
 #suma ->        1  4  9  16  25  36  49  64  81  100
